@@ -1,4 +1,4 @@
-# outcaster_1st_pro
+# Settings UI APP
 
 A new Flutter project.
 
